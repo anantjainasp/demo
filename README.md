@@ -1,3 +1,3 @@
 # demo
-Only for learning purpose
+Only for learning purpose.
 ## How to use GitHub
